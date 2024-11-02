@@ -183,7 +183,7 @@ body {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    background-image: url("images/landing_main_gift_img.png");
+    background-image: url("../images/landing_main_gift_img.png");
     background-size: 1200px 708px;
     background-position: left;
     background-repeat: no-repeat;
